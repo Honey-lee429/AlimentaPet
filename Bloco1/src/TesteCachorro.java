@@ -14,7 +14,7 @@ public class TesteCachorro {
 		System.out.println();
 		System.out.println("Trocando o nome: ");
 		gui.setNome("Aoooo");
-
+		System.out.println("testou");
 		gui.mostrarInfo();
 	}
 }
