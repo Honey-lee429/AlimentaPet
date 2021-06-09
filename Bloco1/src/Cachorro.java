@@ -8,6 +8,7 @@ private String castrado;
 	}
 	
 	public void mostrarInfo() {
+		System.out.println("a");
 		System.out.println("Nome do Cachorro: " + getNome());
 	}
 
@@ -18,6 +19,9 @@ private String castrado;
 	public void setCastrado(String castrado) {
 		this.castrado = castrado;
 	}
+	
+	
+	
 	
 	//criar método calcular quantidade de ração
 }
